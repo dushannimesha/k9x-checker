@@ -1,0 +1,8 @@
+[
+  {"shipping_id": "LK-2026-000101", "sender": "Ceylon Tea Exports Ltd, Colombo", "receiver": "Harrods Food Hall, London", "destination": "London, UK", "weight_kg": 12.5, "hazard_labels": []},
+  {"shipping_id": "LK-2026-000102", "sender": "Kandy Gems & Jewellery", "receiver": "Tiffany Distribution, New York", "destination": "New York, USA", "weight_kg": 2.1, "hazard_labels": []},
+  {"shipping_id": "LK-2026-000103", "sender": "Lanka Batteries PLC", "receiver": "Volt Traders FZE, Dubai", "destination": "Dubai, UAE", "weight_kg": 18.0, "hazard_labels": ["UN3480", "CLASS 9"]},
+  {"shipping_id": "LK-2026-000104", "sender": "Galle Spice Co", "receiver": "Gewurzhaus GmbH, Berlin", "destination": "Berlin, Germany", "weight_kg": 6.75, "hazard_labels": []},
+  {"shipping_id": "LK-2026-000105", "sender": "Peradeniya Labs", "receiver": "Chem Supplies Pte, Singapore", "destination": "Singapore", "weight_kg": 4.0, "hazard_labels": ["CLASS 3", "UN1170"]},
+  {"shipping_id": "LK-2026-000106", "sender": "Negombo Garments", "receiver": "Nordic Apparel AB, Stockholm", "destination": "Stockholm, Sweden", "weight_kg": 25.0, "hazard_labels": []}
+]
